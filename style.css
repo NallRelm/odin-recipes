@@ -1,0 +1,43 @@
+
+body{
+    background-color:aliceblue;
+    text-align: center;
+
+}
+
+h1 {
+    display: inline-block;
+    border-bottom-style: dotted;
+
+  
+}
+
+ul main-page {
+    background-color: rgb(151, 236, 255);
+    margin: 0px;
+}
+
+li {
+    background-color: rgb(220, 220, 249);
+    text-align: left;
+  
+}
+
+a {
+    text-decoration: none;
+    background-color: white;
+    padding: 6px;
+    border-style: solid;
+}
+
+.cookies, .chocolate-cake, .scones{
+    padding: 12px
+}
+
+ol{
+    text-align: left;
+    
+}
+
+
+
